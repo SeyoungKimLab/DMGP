@@ -1,0 +1,10 @@
+train_path: '../data/train.npz'
+test_path: '../data/test.npz'
+batch_shape: [15,20] # (Task,Sample)
+mX: 20 # Number of inducing points (Sample/X)
+mG: 20 # Number of inducing points (Task/G)
+lr: '1e-3' # Learning rate
+epochs: 3000 # Max iteration
+fix_ind: False # Option to fix inducing points during training
+acc_metrics: ['mae', 'mse', 'rmse', 'nlpd']
+init_method: 'kmeans'
