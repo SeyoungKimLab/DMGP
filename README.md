@@ -3,7 +3,10 @@
 *Doubly mixed-effects Gaussian process (DMGP)* is a multi-task GP regression model that learns fixed and random effects across both samples and tasks (decomposition demonstrated in the figure above). Along with an example dataset, this repository includes implementations of:
 - Doubly mixed-effects Gaussian process (DMGP)
 - Translated mixed-effects Gaussian process (TMGP)
-- Mixed-effects Gaussian process (MGP)
+- Mixed-effects Gaussian process (MGP)  
+
+This work is introduced in the following paper:  
+> Jun Ho Yoon, Daniel P. Jeong, and Seyoung Kim. Doubly Mixed-Effects Gaussian Process Regression. *Proceedings of the 25th International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2022.  
 
 ## Setup
 All of the models were implemented in [GPflow](https://github.com/GPflow/GPflow) & [TensorFlow](https://www.tensorflow.org) and tested on Linux & Mac OS. The following package versions were used:
