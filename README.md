@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://github.com/SeyoungKimLab/DMGP/blob/main/figures/dmgp-fig.png?raw=true" alt="Decomposition Figure"/>
 </p>
+
 *Doubly mixed-effects Gaussian process (DMGP)* is a multi-task GP regression model that learns fixed and random effects across both samples and tasks (decomposition demonstrated in the figure above). Along with an example dataset, this repository includes implementations of:
 - Doubly mixed-effects Gaussian process (DMGP)
 - Translated mixed-effects Gaussian process (TMGP)
