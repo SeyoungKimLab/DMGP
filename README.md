@@ -8,7 +8,7 @@
 - Translated mixed-effects Gaussian process (TMGP)
 - Mixed-effects Gaussian process (MGP)  
 
-This work is introduced in the following paper (included in the repository):  
+This work is introduced in the following paper (PDF included in the repository):  
 > Jun Ho Yoon, Daniel P. Jeong, and Seyoung Kim. Doubly Mixed-Effects Gaussian Process Regression. *Proceedings of the 25th International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2022.  
 
 ## Setup
