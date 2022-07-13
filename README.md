@@ -26,7 +26,8 @@ If you find our work useful, please consider citing:
   publisher =    {PMLR},
   pdf = 	 {https://proceedings.mlr.press/v151/ho-yoon22a/ho-yoon22a.pdf},
   url = 	 {https://proceedings.mlr.press/v151/ho-yoon22a.html}
-}```
+}
+```
 
 
 ## Setup
