@@ -11,6 +11,24 @@
 This work is introduced in the following paper (PDF included in the repository):  
 > Jun Ho Yoon, Daniel P. Jeong, and Seyoung Kim. Doubly Mixed-Effects Gaussian Process Regression. *Proceedings of the 25th International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2022.  
 
+If you find our work useful, please consider citing:
+```bibtex
+@InProceedings{pmlr-v151-ho-yoon22a,
+  title = 	 { Doubly Mixed-Effects Gaussian Process Regression },
+  author =       {Ho Yoon, Jun and Jeong, Daniel P. and Kim, Seyoung},
+  booktitle = 	 {Proceedings of The 25th International Conference on Artificial Intelligence and Statistics},
+  pages = 	 {6893--6908},
+  year = 	 {2022},
+  editor = 	 {Camps-Valls, Gustau and Ruiz, Francisco J. R. and Valera, Isabel},
+  volume = 	 {151},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {28--30 Mar},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v151/ho-yoon22a/ho-yoon22a.pdf},
+  url = 	 {https://proceedings.mlr.press/v151/ho-yoon22a.html}
+}```
+
+
 ## Setup
 All of the models were implemented in [GPflow](https://github.com/GPflow/GPflow) & [TensorFlow](https://www.tensorflow.org) and tested on Linux & Mac OS. The following package versions were used:
 
